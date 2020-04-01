@@ -1,0 +1,24 @@
+.sidebar {
+  min-width: 200px;
+  max-width: 400px;
+  background: transparent;
+  border-right: 0;
+  box-shadow: 0 0 2rem rgba(0, 0, 0, 0.75);
+  z-index: 1;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+.rounded-circle {
+  border-radius: 100% !important;
+}
+
+
+.font-weight-bold {
+  font-weight: 500 !important;
+}
+
+
+
