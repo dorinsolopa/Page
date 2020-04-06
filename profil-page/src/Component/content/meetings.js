@@ -2,7 +2,7 @@ import React from "react";
 import Card from "react-bootstrap/Card";
 import MyCard from "./MyCard";
 import Button from "react-bootstrap/Button";
-import { myContent } from "./const";
+import { myContent } from "./Const";
 
 class Meetings extends React.Component {
   constructor(props) {
