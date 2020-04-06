@@ -1,8 +1,8 @@
 import React, { PureComponent } from "react";
-import Feed from "./Feed/feed";
-import Post from "./Post/post";
+import Feed from "./feed/feed";
+import Post from "./post/post";
 import Meetings from "../Component/content/meetings";
-import ProfileComp from "./Profil/profil";
+import ProfileComp from "./profil/profil";
 import Card from "react-bootstrap/Card";
 
 class HomePage extends PureComponent {

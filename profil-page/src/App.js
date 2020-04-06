@@ -1,7 +1,7 @@
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import Navigation from "./Component/Header/header";
+import Navigation from "./Component/header/header";
 import HomePage from "./Component/HomePage";
 
 class App extends React.Component {
